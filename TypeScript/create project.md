@@ -4,12 +4,13 @@
 - Node JS 프로젝트는 디렉토리를 만들고, package.json 파일을 만드는 것으로 시작.
 - package.json : 프로젝트 정보와 관련 패키지가 기록되는 패키지 관리 파일.
 
-```json
+```
 > mkdir [폴더명]
 > cd [폴더명]
 > npm init --y
 Wrote to C:\TIL\TypeScript\[폴더명]\package.json:
-
+```
+```json
 {
   "name": "[폴더명]",
   "version": "1.0.0",
@@ -52,8 +53,8 @@ Wrote to C:\TIL\TypeScript\[폴더명]\package.json:
 message TS6071 : Successfully created a tsconfig.json file.
 ```
 - 기본 tsconfig.json 파일은 실제 개발을 진행하는 데 필요한 많은 옵션이 비활성화 되어있음.
+- 다음과 같이 tsconfig.json 파일 내용 수정하기 :
 ```json
-// 다음과 같이 tsconfig.json 파일 내용 수정하기
 {
     "compilerOptions": {
         "module": "commonjs",
@@ -68,9 +69,9 @@ message TS6071 : Successfully created a tsconfig.json file.
         "paths": { "*": ["node_modules/*"]}
     },
     "include": ["src/**/*"] 
-    // ./src와 ./src/utils 디렉터리에 모든 타입스크립트 소스 파일이 있음.
 }
 ```
+- ./src와 ./src/utils 디렉터리에 모든 타입스크립트 소스 파일이 있음.
 ```TS
 // 설정대로 디렉터리 생성하기
 > mkdir -p src/utils
@@ -107,7 +108,6 @@ testMakePerson();
         "dev" : "ts-node src",
         "build" : "tsc && node dist"
     }, 
-    ...생략...
 }
 ```
 - Dev : src 디렉토리에 있는 index.ts 파일을 실행하는 용도.
