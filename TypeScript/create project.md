@@ -119,6 +119,7 @@ testMakePerson();
 > ts-node src
 { name: 'Jane', age: 22} { name: 'Jack', age: 33} // 코드 실행 결과 
 ```
-실행 결과
+실행 결과<br>
 <img src="../img/typeScriptRun.png">
+<br>
 대부분 타입스크립트 프로젝트는 이런 과정을 거치므로 만들고 설정하는 작업에 익숙해져야함.
