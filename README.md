@@ -10,12 +10,9 @@
 - [HTML & CSS](https://github.com/Ubinquitous/TIL/tree/master/HTML%20%26%20CSS)
 - [JavaScript](https://github.com/Ubinquitous/TIL/tree/master/JavaScript)
 
-## License
+## Computer Science
 
-- [AZ-900](https://github.com/Ubinquitous/TIL/tree/master/AZ-900)
-- [SQLD](https://github.com/Ubinquitous/TIL/tree/master/SQLD)
-
-
+- [Algorithm](https://github.com/Ubinquitous/TIL/tree/master/Algorithm)
 
 
 
