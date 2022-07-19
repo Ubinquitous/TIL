@@ -9,6 +9,7 @@
 
 - [HTML & CSS](https://github.com/Ubinquitous/TIL/tree/master/HTML%20%26%20CSS)
 - [JavaScript](https://github.com/Ubinquitous/TIL/tree/master/JavaScript)
+- [TypeScript](https://github.com/Ubinquitous/TIL/tree/master/TypeScript)
 
 ## Computer Science
 
