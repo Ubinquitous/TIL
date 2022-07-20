@@ -6,3 +6,4 @@
 
 ## Data structure
 - [Array](https://github.com/Ubinquitous/TIL/blob/master/Algorithm/array.md)
+- [radix conversion](https://github.com/Ubinquitous/TIL/blob/master/Algorithm/radix%20conversion.md)
