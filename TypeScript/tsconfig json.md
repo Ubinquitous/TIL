@@ -1,7 +1,7 @@
 # tsconfig.json 파일 살펴보기
 
+tscconfig.json 파일의 기본 구성
 ```json
-//tscconfig.json 파일의 기본 구성
 {
     "compilerOptions" { },
     "include":["src/**/*"]
