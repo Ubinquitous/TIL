@@ -6,3 +6,4 @@
 
 ## Project creation and management
 - [create project](https://github.com/Ubinquitous/TIL/blob/master/TypeScript/create%20project.md)
+- [module](https://github.com/Ubinquitous/TIL/blob/master/TypeScript/module.md)
