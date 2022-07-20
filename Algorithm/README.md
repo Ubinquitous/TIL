@@ -5,3 +5,4 @@
 - [structured programming](https://github.com/Ubinquitous/TIL/blob/master/Algorithm/structured%20programming.md)
 
 ## Data structure
+- [Array](https://github.com/Ubinquitous/TIL/blob/master/Algorithm/array.md)
