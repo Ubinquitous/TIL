@@ -10,3 +10,4 @@
 - [structure](https://github.com/Ubinquitous/TIL/blob/master/Algorithm/structure.md)
 
 ## Search
+- [search algorithm](https://github.com/Ubinquitous/TIL/blob/master/Algorithm/search%20algorithm.md)
