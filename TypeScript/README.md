@@ -12,3 +12,4 @@
 ## Object and Type
 - [variable](https://github.com/Ubinquitous/TIL/blob/master/TypeScript/variable.md)
 - [object and interface](https://github.com/Ubinquitous/TIL/blob/master/TypeScript/object%20and%20interface.md)
+- [object and class](https://github.com/Ubinquitous/TIL/blob/master/TypeScript/object%20and%20class.md)
