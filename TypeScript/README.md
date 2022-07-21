@@ -10,3 +10,5 @@
 - [tsconfig.json](https://github.com/Ubinquitous/TIL/blob/master/TypeScript/tsconfig%20json.md)
 
 ## Object and Type
+- [variable](https://github.com/Ubinquitous/TIL/blob/master/TypeScript/variable.md)
+- [object and interface](https://github.com/Ubinquitous/TIL/blob/master/TypeScript/object%20and%20interface.md)
