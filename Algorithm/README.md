@@ -11,5 +11,5 @@
 
 ## Search Algorithm
 - [search algorithm](https://github.com/Ubinquitous/TIL/blob/master/Algorithm/search%20algorithm.md)
-- [linear search[(https://github.com/Ubinquitous/TIL/blob/master/Algorithm/linear%20search.md)
+- [linear search](https://github.com/Ubinquitous/TIL/blob/master/Algorithm/linear%20search.md)
 - [binary search](https://github.com/Ubinquitous/TIL/blob/master/Algorithm/binary%20search.md)
