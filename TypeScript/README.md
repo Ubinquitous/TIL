@@ -17,4 +17,5 @@
 ✓ [type conversion](https://github.com/Ubinquitous/TIL/blob/master/TypeScript/type%20conversion.md)  
 
 ## Function and Method
-✓
+✓ [function](https://github.com/Ubinquitous/TIL/blob/master/TypeScript/function.md)  
+✓ [function expression](https://github.com/Ubinquitous/TIL/blob/master/TypeScript/function%20expression.md)  
