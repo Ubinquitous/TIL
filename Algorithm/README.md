@@ -20,4 +20,6 @@
 ✓ [stack](https://github.com/Ubinquitous/TIL/blob/master/Algorithm/stack.md)  
 ✓ [queue](https://github.com/Ubinquitous/TIL/blob/master/Algorithm/queue.md)  
 
-## recursion Algorithm
+## recursive Algorithm
+✓ [recursive algorithm](https://github.com/Ubinquitous/TIL/blob/master/Algorithm/recursive%20algorithm.md)  
+✓ [analysis](https://github.com/Ubinquitous/TIL/blob/master/Algorithm/recursive%20analysis.md)  
