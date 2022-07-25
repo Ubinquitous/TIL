@@ -8,3 +8,4 @@
 
 ## State
 ✓ [state](https://github.com/Ubinquitous/TIL/blob/master/React%20JS/state.md)  
+✓ [setState()](https://github.com/Ubinquitous/TIL/blob/master/React%20JS/setState.md)  
