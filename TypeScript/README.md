@@ -19,4 +19,7 @@
 ## Function and Method
 ✓ [function](https://github.com/Ubinquitous/TIL/blob/master/TypeScript/function.md)  
 ✓ [function expression](https://github.com/Ubinquitous/TIL/blob/master/TypeScript/function%20expression.md)  
-✓ [expression statement22](https://github.com/Ubinquitous/TIL/blob/master/TypeScript/expression%20statement.md)  
+✓ [expression statement](https://github.com/Ubinquitous/TIL/blob/master/TypeScript/expression%20statement.md)  
+
+## Array and Tuple
+✓ [array](https://github.com/Ubinquitous/TIL/blob/master/TypeScript/array.md)  
