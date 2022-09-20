@@ -1,5 +1,5 @@
 from socket import *
-
+ 
 s_ip = 'localhost'
 s_port = 7878
 

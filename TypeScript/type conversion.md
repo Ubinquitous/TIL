@@ -8,7 +8,7 @@
 
     let person1: object = {name: 'Ubin', age: 17};
     (<{name:string}>person).name|
-```
+``` 
 - person1 변수를 일시적으로 {name:string} 타입으로 변환해 person.name 속성값을 얻게 하는 코드이다.
 
 ## 타입 단언

@@ -7,7 +7,7 @@
     let o: object = {name: 'Ubin', age: 17};
     o = {first: 1, second: 2};
 ```
-
+ 
 ## 인터페이스 선언문
 - object 타입처럼 동작하지 않게 하려는 목적으로 고안됨.
 - 변수 o에는 항상 name과 age 속성으로 구성된 객체만 가질 수 있게 함.

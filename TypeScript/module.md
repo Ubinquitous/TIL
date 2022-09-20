@@ -8,7 +8,7 @@
 - export : 기능을 제공하는 쪽에서 사용함.
     - class, type, let, const, interface 등의 키워드 앞에 붙일 수 있음.
     - 다른 파일에 심벌의 의미를 전달하기 위해 선언부 앞에 붙이기.
-```TS
+```TS 
     let MAX_AGE = 100;
 
     export interface IPerson {

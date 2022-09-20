@@ -11,7 +11,7 @@
 
     let a = 1, b = 2;
     [a, b] = [b, a] // a = 2, b = 1
-```
+``` 
 - 화살표 함수 : function 키워드를 대신하여 선언할 수 있는 함수.
 ```JS
     function add(a,b){ return a + b } // 기본 함수

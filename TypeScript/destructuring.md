@@ -1,7 +1,7 @@
 # 객체의 비구조화 할당문
 
 ## 구조화
-```TS
+```TS 
     let personName = 'Ubin'
     let personAge = 17
 

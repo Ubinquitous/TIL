@@ -1,6 +1,6 @@
 from socket import *
 
-s_ip = 'localhost'
+s_ip = 'localhost' 
 s_port = 7878
 s_addr = (s_ip, s_port)
 

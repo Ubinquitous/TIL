@@ -7,7 +7,7 @@
     function 함수 이름(매개변수1: 타입1, 매개변수2: 타입2) : 반환값 타입 {
         함수
     }
-```
+``` 
 ```TS
     /*--- 함수 활용문 ---*/
     function add(a: number, b: number): number {

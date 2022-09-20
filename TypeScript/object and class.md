@@ -8,7 +8,7 @@
     class 클래스이름 {
         [private | protected | public] 속성이름[?]: 속성타입[...]
     }
-```
+``` 
 ```TS
     /*--- 클래스 활용문 ---*/
     class Person {

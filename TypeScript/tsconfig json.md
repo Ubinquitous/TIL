@@ -6,7 +6,7 @@
     "compilerOptions" { },
     "include":["src/**/*"]
 }
-```
+``` 
 - compilerOptions 항목은 tsc 명령 형식에서의 옵션을 나타낸다.
 - include 항목은 대상 파일 목록을 나타낸다.
     - src/**/*은 src 디렉터리와 하위 디렉터리에 있는 모든 파일을 컴파일 대상으로 한다는 의미.
