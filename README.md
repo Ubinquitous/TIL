@@ -1,12 +1,12 @@
 # Today I Learned
 
-## Network
+## [Network](https://github.com/Ubinquitous/TIL/tree/master/Network)
 
-## TypeScript
+## [TypeScript](https://github.com/Ubinquitous/TIL/tree/master/TypeScript)
 
-## UX/UI
+## [UX/UI](https://github.com/Ubinquitous/TIL/tree/master/UX%20UI)
 
-
+## [HTTP](https://github.com/Ubinquitous/TIL/tree/master/HTTP)
 
 
 
