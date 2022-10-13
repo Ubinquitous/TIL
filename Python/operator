@@ -1,0 +1,41 @@
+## 연산자 정리
+
+## AND 연산자
+
+```python
+if s>10 and s<20:
+    ~
+
+if s>10 & s<20:
+    ~
+```
+
+## OR 연산자
+
+```python
+if s>10 or s<20:
+    ~
+
+if s>10 | s<20:
+    ~
+```
+
+## NOT 연산자
+
+```python
+if not s==1:
+    ~
+
+if s>10 & s<20:
+    ~
+```
+
+## in, not in 연산자
+
+```python
+if not in s<20:
+    ~
+
+if s>10 & s<20:
+    ~
+```
