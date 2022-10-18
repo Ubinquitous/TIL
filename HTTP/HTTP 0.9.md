@@ -16,3 +16,7 @@ Connection: close
 Accept: */*
 User-Agent: curl/7.52.1
 ```
+
+## Form과 검색 기능
+- HTML 문장 내에서 \<isindex> 태그를 사용하면 텍스트 입력란이 생겨 검색할 수 있었다. 
+- 현재에는 없으나, URL에 검색 키워드를 부여해 요청하는 방식은 현재도 동일하다.
