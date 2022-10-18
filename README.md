@@ -12,7 +12,7 @@
 ## Front-end Skill
 ### [TypeScript](https://github.com/Ubinquitous/TIL/tree/master/FrontEnd/TypeScript)
 
-### [Vue](https://github.com/Ubinquitous/TIL/tree/master/FrontEnd/Vue)
+### [Vue.js](https://github.com/Ubinquitous/TIL/tree/master/FrontEnd/Vue)
 
 ### [UX/UI](https://github.com/Ubinquitous/TIL/tree/master/FrontEnd/UX%20UI)
 
