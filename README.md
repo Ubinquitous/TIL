@@ -1,20 +1,22 @@
 # Today I Learned
 
 ## Computer Science
-### [Network](https://github.com/Ubinquitous/TIL/tree/master/Network)
+### [Network](https://github.com/Ubinquitous/TIL/tree/master/CS/Network)
 
-### [HTTP](https://github.com/Ubinquitous/TIL/tree/master/HTTP)
+### [HTTP](https://github.com/Ubinquitous/TIL/tree/master/CS/HTTP)
 
-### [Document](https://github.com/Ubinquitous/TIL/tree/master/FrontEnd%20Struct)
+### [Document](https://github.com/Ubinquitous/TIL/tree/master/CS/Document)
+
+### [Data Structure](https://github.com/Ubinquitous/TIL/tree/master/CS/Data%20Structure)
 
 ## Front-end Skill
-### [TypeScript](https://github.com/Ubinquitous/TIL/tree/master/TypeScript)
+### [TypeScript](https://github.com/Ubinquitous/TIL/tree/master/FrontEnd/TypeScript)
 
-### [Vue](https://github.com/Ubinquitous/TIL/tree/master/Vue)
+### [Vue](https://github.com/Ubinquitous/TIL/tree/master/FrontEnd/Vue)
 
-### [UX/UI](https://github.com/Ubinquitous/TIL/tree/master/UX%20UI)
+### [UX/UI](https://github.com/Ubinquitous/TIL/tree/master/FrontEnd/UX%20UI)
 
 ## Back-end Skill
-### [Python](https://github.com/Ubinquitous/TIL/tree/master/Python)
+### [JAVA](https://github.com/Ubinquitous/TIL/tree/master/BackEnd/JAVA)
 
-### [JAVA](https://github.com/Ubinquitous/TIL/tree/master/JAVA)
+### [Python](https://github.com/Ubinquitous/TIL/tree/master/BackEnd/Python)
