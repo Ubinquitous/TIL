@@ -21,4 +21,4 @@
 
 ### [Python](https://github.com/Ubinquitous/TIL/tree/master/BackEnd/Python)
 
-### [Node JS](https://github.com/Ubinquitous/TIL/tree/master/BackEnd/Python)
+### [Node JS](https://github.com/Ubinquitous/TIL/tree/master/BackEnd/Node%20JS)
