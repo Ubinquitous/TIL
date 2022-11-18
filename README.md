@@ -17,7 +17,6 @@
 ### [UX/UI](https://github.com/Ubinquitous/TIL/tree/master/FrontEnd/UX%20UI)
 
 ## Back-end Skill
-### [JAVA](https://github.com/Ubinquitous/TIL/tree/master/BackEnd/JAVA)
 
 ### [Python](https://github.com/Ubinquitous/TIL/tree/master/BackEnd/Python)
 
